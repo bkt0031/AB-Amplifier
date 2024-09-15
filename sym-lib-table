@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Apmplifier")(type "KiCad")(uri "${KIPRJMOD}/Apmplifier.kicad_sym")(options "")(descr ""))
+  (lib (name "Amplifier")(type "KiCad")(uri "${KIPRJMOD}/Amplifier.kicad_sym")(options "")(descr ""))
+)
