@@ -41,7 +41,7 @@ in place.
 After building this circuit I ended up with about 8.23 Vp-p unclipped maximum output voltage which will deliver 2.1 Watts to
 the 4 Ohm speaker.
 
-The external case mounted parts used were:
+## External Case Mounted Parts
 
 | Qty   | Description                       | Distributor  | Part Number          | Notes                |
 | :---- | :-------------------------------- | :----------- | :------------------- | :------------------- |
@@ -52,6 +52,18 @@ The external case mounted parts used were:
 | 1     | CONN RCA JACK MONO 3.2MM PNL MT   | Digi-Key     | CP-1412-ND           | No locating features |
 | 1     | CONN PWR JACK 2.0X5.5MM SOLDER    | Digi-Key     | CP-5-ND              |                      |
 
+## PCB Layout
+
+![AB-Amplifier_PCB](https://github.com/user-attachments/assets/d50f2342-9810-4eed-b3c9-7c8593c871ac)
+
+## Amplifier Enclosure
+
 The case was printed using ABS filament. I always have a problem with determining hole size for the threaded heat
 inserts. In my case the standoff hole sizes were a tad small and I needed to increase the hole size so that 
 the head insert would go in without deforming the standoff.
+
+## Future Ideas
+* Mute button
+* Headphone jack integration
+* Use surface mount components to reduce size
+* Smaller output transistors and heatsinks. In the current design these are barely getting warm at full power output
